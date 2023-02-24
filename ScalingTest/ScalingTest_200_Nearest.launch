@@ -16,5 +16,5 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="uk.co.matbooth.ScalingTest"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="ScalingTest"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ScalingTest"/>
-    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dswt.autoScale=quarter&#10;-Dswt.autoScale.method=nearest"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dswt.autoScale=200&#10;-Dswt.autoScale.method=nearest"/>
 </launchConfiguration>
